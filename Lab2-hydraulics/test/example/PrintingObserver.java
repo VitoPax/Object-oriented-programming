@@ -1,5 +1,5 @@
 package example;
- 
+
 import hydraulic.SimulationObserver;
 
 import java.util.Arrays;
