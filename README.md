@@ -7,7 +7,7 @@ Object-oriented programming course at the Polytechnic University of Turin.
 - [Maven Guide](https://maven.apache.org/guides/index.html)
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 - [Lectures](https://softeng.polito.it/courses/09CBI/#Lectures)
-- [Textbook](https://softeng.polito.it/torchiano/JavaBook/)
+- [Notes](https://softeng.polito.it/torchiano/JavaBook/)
 
 
 
