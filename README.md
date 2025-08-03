@@ -9,6 +9,7 @@ Object-oriented programming course at the Polytechnic University of Turin.
 - [JDK](https://docs.aws.amazon.com/corretto/)
 - [Lectures](https://softeng.polito.it/courses/09CBI/#Lectures)
 - [Notes](https://softeng.polito.it/torchiano/JavaBook/)
+- [Textbook](http://178.140.10.58:8083/read/5043/pdf)
 
 
 
