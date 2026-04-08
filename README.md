@@ -1,5 +1,5 @@
 # Object-oriented-programming
-Object-oriented programming course at the Polytechnic University of Turin.
+Object-oriented programming course at Polytechnic University of Turin.
 
 ## Resources
 
